@@ -15,5 +15,8 @@ The project uses data from the EM-DAT International Disasters Database and the W
 * The project underscores the need for effective disaster management strategies and policies.
 * Visualizations offer insights into the most affected regions and types of disasters.
 
+## Google Site Link
+Access the Google Site for interactive visualizations: Impact of Disasters - https://sites.google.com/view/impact-of-disasters/home
+
 ## Conclusion
 The "Impact of Disasters on Human Life" project contributes to the understanding of the far-reaching effects of disasters. By leveraging data visualization techniques, the project aims to aid policymakers and disaster response organizations in making informed decisions to mitigate and manage the impacts of disasters.
